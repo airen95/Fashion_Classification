@@ -20,5 +20,6 @@ Here what I get after 100 epochs
  #### Add more images for  imbalanced categories such as: short-pant or vay-chong-nang.
  #### Use R-CNN or Faster R-CNN which forcus on benchmarks. I wonder whether the benchmarks can classify data better than bounding box method.
  #### Do research on how to distinguish clothes for men/women if they have similar shape, may be color, fabric or texture should be taken into account
- ![img](https://drive.google.com/file/d/14EESvFlkT3G6I_POOEd4J4olu-Eih_NH/view?usp=sharing)
+ ![g](https://user-images.githubusercontent.com/66456752/127785798-3740b869-59f2-4ca5-be2e-84d0210caed2.png)
+
  
