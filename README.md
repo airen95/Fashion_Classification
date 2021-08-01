@@ -2,6 +2,7 @@
 
 # I. Overview:
 ##### Based on provided train_data.csv contains imageas url_link and labels, building model that can classify what type of cloth in the picture.
+![img](Test_batch.jp
 ##### This is my very first hand-on project which I managed to do alone till ends without asking for help from friends or teacher. Appreciated this opportunity so much.
 # II. Approach:
 #### 1. Extract image and label from csv file.
