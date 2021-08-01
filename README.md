@@ -15,6 +15,8 @@ $ python train.py --img 640 --batch 16 --epochs 3 --data coco128.yaml --weights 
 #### Not only fast and convenient, what is better about yolov5? In the lastest version, it also embeded the function of autoatically drawing result evaluation.
 Here what I get after 100 epochs
  ![Result](R.png).
+ As you can see, the Recall score was not as good as I expected which meant my model still wrongly classified many classes, esp those with imbalance data.
+ 
   
  # IV. In the future:
  #### Add more images for  imbalanced categories such as: short-pant or vay-chong-nang.
