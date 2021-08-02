@@ -1,4 +1,4 @@
-# Fashion_Classification
+# Fashion Classification
 
 # I. Overview:
 ##### Based on provided train_data.csv contains imageas url_link and labels, building model that can classify what type of cloth in the picture.
